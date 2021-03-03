@@ -1,0 +1,13 @@
+{
+"name": "lib.min.js",
+"version": "3.0.0-6",
+"description": "JScript Library",
+"author": "Seindi Rahmat Barus <seindi@outlook.com>",
+"license": "MIT",
+"homepage": "https://github.com/seindi/lib.min.js",
+"repository": {"type": "git", "url": "git+https://github.com/seindi/lib.min.js.git"},
+"bugs": {"url": "https://github.com/seindi/lib.min.js/issues"},
+"main": "package.js", "files": ["package.js", ".github", ".gitignore", ".npm", ".npmignore", "HISTORY", "LICENSE", "README.md", "plugin/"],
+"keywords": ["lib", "library"],
+"dependencies": {}
+}
