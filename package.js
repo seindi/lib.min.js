@@ -1,4 +1,6 @@
 /**
+ * xxx
+ *
  * title
  * description
  * sub description
@@ -21,6 +23,8 @@ var $$$ = {
 	}
 
 /**
+ * xxx
+ *
  * title
  * description
  * sub description
@@ -44,6 +48,8 @@ Object.define (Function, "event", class {
 	});
 
 /**
+ * xxx
+ *
  * title
  * description
  * sub description
@@ -62,6 +68,8 @@ Object.define (Function.hash.shuffle, "length", 24);
 Object.define (Function.hash, "algorithm", {md: "md5", sha: "sha1", __sha: "sha256", encoding: "utf8", base: "base64"});
 
 /**
+ * xxx
+ *
  * title
  * description
  * sub description
@@ -81,6 +89,8 @@ Object.define (Function, "util", function () {});
 Object.define (Function, "db", function () {});
 
 /**
+ * xxx
+ *
  * title
  * description
  * sub description
